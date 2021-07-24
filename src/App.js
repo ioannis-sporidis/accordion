@@ -1,18 +1,22 @@
 import { useState } from 'react';
 import data from './data';
+import Question from './Question';
 
 function App() {
   const [questions, setQuestions] = useState(data);
 
-  return questions.map(question => {
-    const { id, title, info } = question;
-    return (
-      <div key={id}>
-        <h4>{title}</h4>
-        <p>{info}</p>
+  return (
+    <main>
+      <div className='container'>
+        <h3>questions and answers about login</h3>
+        <section className='info'>
+          {questions.map(question => {
+            return <Question key={question.id} {...question} />;
+          })}
+        </section>
       </div>
-    );
-  });
+    </main>
+  );
 }
 
 export default App;
