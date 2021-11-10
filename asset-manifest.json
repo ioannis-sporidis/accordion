@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/accordion/static/css/main.1747d09a.chunk.css",
-    "main.js": "/accordion/static/js/main.32f13eac.chunk.js",
-    "main.js.map": "/accordion/static/js/main.32f13eac.chunk.js.map",
-    "runtime-main.js": "/accordion/static/js/runtime-main.65bb4acd.js",
-    "runtime-main.js.map": "/accordion/static/js/runtime-main.65bb4acd.js.map",
-    "static/js/2.7ebcd86d.chunk.js": "/accordion/static/js/2.7ebcd86d.chunk.js",
-    "static/js/2.7ebcd86d.chunk.js.map": "/accordion/static/js/2.7ebcd86d.chunk.js.map",
-    "index.html": "/accordion/index.html",
-    "static/css/main.1747d09a.chunk.css.map": "/accordion/static/css/main.1747d09a.chunk.css.map",
-    "static/js/2.7ebcd86d.chunk.js.LICENSE.txt": "/accordion/static/js/2.7ebcd86d.chunk.js.LICENSE.txt"
+    "main.css": "/rc-accordion/static/css/main.1747d09a.chunk.css",
+    "main.js": "/rc-accordion/static/js/main.9f485f3f.chunk.js",
+    "main.js.map": "/rc-accordion/static/js/main.9f485f3f.chunk.js.map",
+    "runtime-main.js": "/rc-accordion/static/js/runtime-main.0367e84a.js",
+    "runtime-main.js.map": "/rc-accordion/static/js/runtime-main.0367e84a.js.map",
+    "static/js/2.7ebcd86d.chunk.js": "/rc-accordion/static/js/2.7ebcd86d.chunk.js",
+    "static/js/2.7ebcd86d.chunk.js.map": "/rc-accordion/static/js/2.7ebcd86d.chunk.js.map",
+    "index.html": "/rc-accordion/index.html",
+    "static/css/main.1747d09a.chunk.css.map": "/rc-accordion/static/css/main.1747d09a.chunk.css.map",
+    "static/js/2.7ebcd86d.chunk.js.LICENSE.txt": "/rc-accordion/static/js/2.7ebcd86d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65bb4acd.js",
+    "static/js/runtime-main.0367e84a.js",
     "static/js/2.7ebcd86d.chunk.js",
     "static/css/main.1747d09a.chunk.css",
-    "static/js/main.32f13eac.chunk.js"
+    "static/js/main.9f485f3f.chunk.js"
   ]
 }
