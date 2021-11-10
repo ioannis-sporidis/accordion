@@ -1,7 +1,14 @@
-# Accordion Component
+# Accordion component
 
-https://ioannis-sporidis.github.io/accordion/
+Click [here](https://ioannis-sporidis.github.io/rc-accordion/) to check out the component.
 
-## Next Steps:
+### Inspired by Dan Abramov's blog *[Overreacted](https://overreacted.io/)*
 
+## Dependencies
+
+- [React](https://reactjs.org/)
+- [Moment.js](https://momentjs.com/)
+- [NPM gh-pages](https://www.npmjs.com/package/gh-pages)
+
+## Next Steps
 - Use Material-UI.
