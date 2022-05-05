@@ -1,6 +1,6 @@
 # Accordion component
 
-Check out the component [here](https://ioannis-sporidis.github.io/rc-accordion/)
+Check out the component [here](https://the-fetaverse.github.io/rc-accordion/)
 
 
 ## Dependencies
